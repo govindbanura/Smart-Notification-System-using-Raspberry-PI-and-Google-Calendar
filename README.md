@@ -1,0 +1,2 @@
+# Smart-Notification-System-using-Raspberry-PI-and-Google-Calendar
+A Smart Notification System is a new idea of implementation which makes a normal noticeboard smart using Raspberry pi and Google Calendar. After establishing the connection of your Raspberry pi to Google Calendar, you can see the notices automatically in the T.V. Screen or a projector. No matter where you are if you are connected to internet you can send new notices to your Smart Notification System.  We can also update, delete and add new notices using Smart Notification System. 
