@@ -33,7 +33,7 @@ function getClient()
         $authUrl = $client->createAuthUrl();
         printf("Open the following link in your browser:\n%s\n", $authUrl);
         print 'Enter verification code: ';
-        $authCode = "4/AACfUb5Fy47GhZYcKeqUOrfgD2iBPxeFBdRKML5HnhZXNFX9CWSjmlM";
+        $authCode = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;
 
         // Exchange authorization code for an access token.
         $accessToken = $client->fetchAccessTokenWithAuthCode($authCode);
